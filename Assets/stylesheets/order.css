@@ -1,0 +1,11 @@
+.item img {
+	width: 150px;
+	height: 150px;
+}
+.total {
+	white-space: nowrap;
+}
+.noOrderText{
+	height: 50vh;
+	width: 100%;
+}
